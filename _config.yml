@@ -3,8 +3,8 @@ email: info@highdesertchildrenschoir.org
 description: >-
   Welcome to the High Desert Children's Choir - nurturing young voices
   and building musical excellence in our community.
-baseurl: ""
-url: "https://rob-gonz.github.io/highdesertchildrenschoir"
+baseurl: "/highdesertchildrenschoir"
+url: "https://rob-gonz.github.io"
 
 # Build settings
 markdown: kramdown
